@@ -1,2 +1,8 @@
-# hello-world
-My first test repository
+
+#include <iostream>
+
+int main() 
+{
+    std::cout << "Hello, World!";
+    return 0;
+}
